@@ -179,7 +179,7 @@ function SideNav({ history }) {
               </Link>
             </HeaderText> */}
             <HeaderText>
-              <Link href="https://twitter.com/HalfPizza3" target="_blank">
+              <Link href="https://twitter.com/TeddySwap1" target="_blank">
                 Twitter
               </Link>
             </HeaderText>
